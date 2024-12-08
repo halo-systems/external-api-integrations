@@ -1,3 +1,5 @@
+![HaloWiFi Logo](https://halowifi.com/assets/images/halowifi-assets/HaloWiFi-logo.png)
+
 # HaloWiFi API Integrations
 
 A collection of integration tools and examples for working with the HaloWiFi API.
@@ -17,3 +19,7 @@ To get started with the HaloWiFi API, follow these steps:
 2. Generate an API Credentials from the HaloWiFi API dashboard.
 
 3. Follow instructions in the example scripts to use the API.
+
+## Support
+
+For technical support or assistance, please raise a support ticket through your HaloWiFi Dashboard.
